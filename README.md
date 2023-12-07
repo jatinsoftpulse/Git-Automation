@@ -1,5 +1,3 @@
 # Git-Automation
 
-- edit this line
-- add this in main
-- edit readme
+- add this line with nano command
